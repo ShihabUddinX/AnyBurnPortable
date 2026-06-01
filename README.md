@@ -1,6 +1,6 @@
 Name: AnyBurn Portable
-Version: 1.0.0
-Release Date: 2026-03-30
+Version: 6.8.0.0
+Release Date: 2026-05-25
 Website: https://www.anyburn.com
 PortableApps.com Link: https://portableapps.com/node/80445
 
